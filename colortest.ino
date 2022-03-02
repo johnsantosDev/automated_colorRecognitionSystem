@@ -1,3 +1,5 @@
+//bY JOHN SANTOS
+
 #include <Servo.h>
 #define S0 2
 #define S1 3
